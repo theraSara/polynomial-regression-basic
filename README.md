@@ -116,8 +116,3 @@ When `DebugAIMode` is set to `true`, detailed outputs are printed to the serial 
 - Implement advanced error metrics for better evaluation.
 - Integrate visualization of real-time predictions and errors.
 
----
-
-## License
-
-This project is open-source and available under the MIT License. Contributions are welcome!
